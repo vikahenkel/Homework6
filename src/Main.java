@@ -48,7 +48,7 @@ public class Main {
 
         System.out.println("Aufgabe 9");
         for (int i = 0; i < 12; i++) {
-            total = accumulation * 12 /100;
+            total = accumulation * 1 /100;
             System.out.println("Месяц " + i + ",сумма накоплений равна " + total + " рублей.");
         }
 
